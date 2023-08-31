@@ -1,4 +1,4 @@
-### Hello world! Nice to meet you! 
+### Hello world! Nice to meet you! I am a Senior studying Neuroscience. I like to eat and sleep.
 
 <!--
 **keltawil/keltawil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
